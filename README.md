@@ -1,7 +1,9 @@
-🗂️ FileOrganizer — Smart File Sorting & Cleanup Tool (Python)
+# 🗂️ FileOrganizer
+
+— Smart File Sorting & Cleanup Tool (Python)
 A lightweight, fast, and reliable Python-based file management tool that automatically organizes messy folders into clean, structured directories. FileOrganizer sorts files by type, extension, size, or custom rules — helping users keep their workspace tidy with a single command.
 
-🚀 Project Overview
+## 🚀 Project Overview
 📦 Phase 1: Core Sorting Engine
 Scan any folder and detect all files
 
@@ -29,8 +31,8 @@ Batch rename files
 
 Generate logs of all operations
 
-🧠 Features
-✅ Core Features
+## 🧠 Features
+### ✅ Core Features
 One‑click folder cleanup
 
 Automatic folder creation
@@ -39,7 +41,7 @@ Safe file moving with overwrite protection
 
 Works on Windows, macOS, and Linux
 
-📁 Sorting Modes
+### 📁 Sorting Modes
 By file type (Images, Videos, Docs, etc.)
 
 By extension
@@ -49,13 +51,6 @@ By size
 By date
 
 Custom rule sets
-
-🧩 Project Structure
-/FileOrganizer
-│
-├── fileorganizer.py      # Main sorting engine
-├── /Sorted               # Output folders (auto-created)
-└── README.md
 
 🛠️ Technologies Used
 | Tech | Description |
